@@ -2,5 +2,5 @@
 
 ## Build
 ```
-docker build -t "bilxio/ubuntu:1.0" .
+docker build -t "bilxio/ubuntu:14.04" .
 ```
