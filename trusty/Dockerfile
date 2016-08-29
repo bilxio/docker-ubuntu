@@ -10,4 +10,3 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get upgrade -y && \
 		libssl-dev build-essential \
 		ruby1.9.1 ruby1.9.1-dev \
 		--no-install-recommends
-
